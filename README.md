@@ -1,16 +1,21 @@
+![IMG_9245](https://user-images.githubusercontent.com/102651183/215255815-e7898207-e06a-4d99-86b1-a4306eb5f499.jpg)
+
+![visitors](https://visitor-badge.deta.dev/badge?page_id=metaphorme.metaphorme)
+
 ### Hi there 👋
 
-<!--
-**Metaphorme/Metaphorme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥷 I'm Diazepam(aka Metaphorme).
 
-Here are some ideas to get you started:
+👨‍🎓 Undergraduate Student at China Pharmaceutical University, major in Pharmacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Interested in Computer network, Computational Molcular Chemistry...
+
+🌏 Open Source enthusiast.
+
+🌱 Have fun with Python/Docker/Go, learning Rust.
+
+### Contributions 🦾
+
+[![Diazepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=metaphorme)](https://github.com/metaphorme)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaphorme)](https://github.com/metaphorme)
