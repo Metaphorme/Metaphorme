@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/102651183/215258479-3d31628b-a39c-4c2c-9c67-a0895c885f63.png" width=52% height=52%>
+<img src="https://raw.githubusercontent.com/metaphorme/metaphorme/main/boom.png" width=52% height=52%>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=metaphorme.metaphorme)
 
