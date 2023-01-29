@@ -1,4 +1,3 @@
-<br><br>
 <img src="https://user-images.githubusercontent.com/102651183/215258479-3d31628b-a39c-4c2c-9c67-a0895c885f63.png" width=52% height=52%>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=metaphorme.metaphorme)
@@ -18,10 +17,11 @@
 ### Contributions 🦾
 
 [![Diazepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaphorme&exclude_repo=metaphorme.github.io&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact Me
+![Snake](https://raw.githubusercontent.com/metaphorme/metaphorme/release/dist/github-snake-dark.svg#gh-dark-mode-only)
+
+### Contact Me
 
 📬 Email: 77@diazepam.cc
 
