@@ -18,7 +18,7 @@
 
 [![Diazepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaphorme&exclude_repo=metaphorme.github.io&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+![Snake](https://raw.githubusercontent.com/metaphorme/metaphorme/release/dist/github-snake.svg#gh-light-mode-only)
 ![Snake](https://raw.githubusercontent.com/metaphorme/metaphorme/release/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ### Contact Me
