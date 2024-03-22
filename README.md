@@ -4,15 +4,15 @@
 
 ### Hi there 👋
 
-🥷 I'm Diazepam(aka Metaphorme).
+🥷 I'm Diazepam (aka Metaphorme).
 
-👨‍🎓 Undergraduate Student at China Pharmaceutical University, Major in Pharmacy.
+🎓 Undergraduate Student at China Pharmaceutical University, Major in Basic Pharmacy.
 
-🧪 Interested in Computer network, Computational Molcular Chemistry, and anything interesting! 🤩
+🧪 Interested in Computer Network, Computational Molcular Chemistry, Deep Learning, Embedded System, Cryptography, and anything interesting! 🤩
 
 🌏 Open Source Enthusiast.
 
-🌱 Have fun with Python/Docker/Go, learning Rust.
+🌱 Have fun with Python🐍 && Docker🐳  && C++ 👾, learning Rust 🦾.
 
 ### Contributions 🦾
 
