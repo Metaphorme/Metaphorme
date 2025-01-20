@@ -25,6 +25,8 @@
 
 📬 Email: 77@diazepam.cc
 
+📡 CQ, CQ, Calling CQ. This is BH5UNQ. 73.
+
 🎭 PGP Signature: 96AAE13C1DB59D92E6E06188CA0BA69681448F47
 
 🔒 PGP PUBLIC KEY:
