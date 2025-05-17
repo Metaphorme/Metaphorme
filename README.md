@@ -9,8 +9,8 @@
 <table>
   <tr>
     <td style="width:50%;">
-        <h4>🇨🇳 中文版</h4>
-        <p>👋 我是刘翯齐，很高兴认识你！</p>
+        <h4>你好！👋</h4>
+        <p>😋 我是刘翯齐，很高兴认识你！</p>
         <p>🎓 中国药科大学硕士在读，主攻医药大数据与人工智能方向。</p>
         <p>&ensp;&ensp;&ensp;本科毕业于中国药科大学基础药学理科基地班。</p>
         <p>🧪 研究兴趣包括：计算机网络、分子动力学、深度学习、嵌入式系统、密码学，以及一切有趣的事物！🤩</p>
@@ -18,8 +18,8 @@
         <p>🌱 日常使用 Python 🐍、C++ 👾 和 Rust 🦀。</p>
     </td>
     <td style="width:50%;">
-        <h4>🇺🇸 English Version</h4>
-        <p>🥷 I'm Heqi Liu, nice to meet you!</p>
+        <h4>Hello!  👋</h4>
+        <p>😋 I'm Heqi Liu. Nice to meet you!</p>
         <p>🎓 Master's Student at China Pharmaceutical University, majoring in Pharmaceutical Big Data and AI.</p>
         <p>&ensp;&ensp;&ensp;B.S. in Basic Pharmacy from China Pharmaceutical University.</p>
         <p>🧪 Interests: Computer Networks, Computational Chemistry, Deep Learning, Embedded Systems, Cryptography, and anything interesting! 🤩</p>
@@ -31,26 +31,6 @@
 
 <h3>📊 贡献统计 / Contributions</h3>
 
-<picture>
-  <!-- 深色模式 -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- 浅色模式（包括无偏好） -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <!-- 回退 -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true&theme=merko"
-    alt="GitHub Stats for metaphorme"
-  />
-</picture>
-
-<br>
-
 <!-- Top Languages Card -->
 <picture>
   <!-- 深色模式 -->
@@ -58,7 +38,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=metaphorme&exclude_repo=metaphorme.github.io&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <!-- 浅色模式（包括无偏好） -->
+  <!-- 浅色模式 -->
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=metaphorme&exclude_repo=metaphorme.github.io&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
@@ -67,6 +47,27 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaphorme&exclude_repo=metaphorme.github.io&layout=compact&theme=merko"
     alt="Top Languages for metaphorme"
+  />
+</picture>
+
+<br>
+
+<!-- Individual Stats Card -->
+<picture>
+  <!-- 深色模式 -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- 浅色模式 -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <!-- 回退 -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=metaphorme&show_icons=true&theme=merko"
+    alt="GitHub Stats for metaphorme"
   />
 </picture>
 
@@ -116,6 +117,5 @@ MKfkU+c6ZPsqsrjV1Uf6jFeotiZciw8=
 =MOwN
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
-
 </body>
 </html>
