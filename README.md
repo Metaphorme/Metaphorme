@@ -22,7 +22,7 @@
         <p>😋 I'm Heqi Liu. Nice to meet you!</p>
         <p>🎓 Master's Student at China Pharmaceutical University, majoring in Pharmaceutical Big Data and AI.</p>
         <p>&ensp;&ensp;&ensp;B.S. in Basic Pharmacy from China Pharmaceutical University.</p>
-        <p>🧪 Interests: Computer Networks, Computational Chemistry, Deep Learning, Embedded Systems, Cryptography, and anything interesting! 🤩</p>
+        <p>🧪 Interests: Computer Networks, Molecular Dynamics, Deep Learning, Embedded Systems, Cryptography, and anything interesting! 🤩</p>
         <p>🌏 Open Source Enthusiast!</p>
         <p>🌱 Working with Python 🐍, C++ 👾, and Rust 🦀.</p>
     </td>
