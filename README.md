@@ -20,7 +20,7 @@
     <td style="width:50%;">
         <h4>Hello!  👋</h4>
         <p>😋 I'm Heqi Liu. Nice to meet you!</p>
-        <p>🎓 Master's Student at China Pharmaceutical University, majoring in Pharmaceutical Big Data and AI.</p>
+        <p>🎓 Master's Student at China Pharmaceutical University, majoring in Pharmaceutical Big Data and Artificial Intelligence.</p>
         <p>&ensp;&ensp;&ensp;B.S. in Basic Pharmacy from China Pharmaceutical University.</p>
         <p>🧪 Interests: Computer Networks, Molecular Dynamics, Deep Learning, Embedded Systems, Cryptography, and anything interesting! 🤩</p>
         <p>🌏 Open Source Enthusiast!</p>
@@ -77,28 +77,16 @@
     <img src="https://raw.githubusercontent.com/metaphorme/metaphorme/release/dist/github-snake.svg" alt="contribution snake">
 </picture>
 
-<h3>📮 联系我 / Contact</h3>
+<h3>📮 联系方式 / Contact</h3>
 
-<table>
-  <tr>
-    <td style="width:50%;">
-<p><strong>📬 电子邮箱</strong></p>
+<p><strong>📬 电子邮箱 / Email</strong></p>
 <p><a href="mailto:77@diazepam.cc">77@diazepam.cc</a></p>
-<p><strong>📡 业余无线电</strong></p>
+
+<p><strong>📡 业余无线电 / Ham Radio</strong></p>
 <p>CQ, CQ, Calling CQ. This is BH5UNQ. 73.</p>
-<p><strong>🎭 PGP 公钥指纹</strong></p>
+
+<p><strong>🎭 PGP 公钥指纹 / PGP Fingerprint</strong></p>
 <p>96AAE13C1DB59D92E6E06188CA0BA69681448F47</p>
-    </td>
-    <td style="width:50%;">
-<p><strong>📬 Email</strong></p>
-<p><a href="mailto:77@diazepam.cc">77@diazepam.cc</a></p>
-<p><strong>📡 Ham Radio</strong></p>
-<p>CQ, CQ, Calling CQ. This is BH5UNQ. 73.</p>
-<p><strong>🎭 PGP Fingerprint</strong></p>
-<p>96AAE13C1DB59D92E6E06188CA0BA69681448F47</p>
-    </td>
-  </tr>
-</table>
 
 <h3>🔒 PGP 公钥 / Public Key</h3>
 <pre>
