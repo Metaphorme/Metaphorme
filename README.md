@@ -31,7 +31,11 @@
   </tr>
 </table>
 
-[个人简历](https://oss.diazepam.cc/heqiliu_resume.pdf)
+<h4>
+  <a href="https://oss.diazepam.cc/heqiliu_resume.pdf" target="_blank">
+    👨‍🔬 个人简历
+  </a>
+</h4>
 
 <h3>📊 贡献统计 / Contributions</h3>
 
